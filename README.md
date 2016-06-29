@@ -1,4 +1,4 @@
-# logsprout-logstash-docker
+# logspout-logstash-docker
 
 Source for the Logsprout logstash Docker image. 
 
